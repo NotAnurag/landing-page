@@ -1,0 +1,155 @@
+.top1 {
+    background-color: #1F2939;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: #f9faf8;
+    padding: 15px 175px 15px 175px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.titleHead {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+
+.top2 {
+    background-color: #1f2937;
+    color:#f9faf8;
+    height: 15ex;
+    display: flex;
+    padding: 20ex;
+    font-size: 18px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainHead {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.top2words {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-style: normal;
+    margin: 30px;
+    text-decoration: none;
+}
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20ex;
+}
+
+.mainContent {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.pic1 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    max-width: min-content;
+}
+
+.pic2 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    max-width: min-content;
+}
+
+.pic3 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    max-width: min-content;
+}
+
+.pic4 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    max-width: min-content;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10ex;
+}
+
+.contacts {
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    padding: 5ex;
+    margin:  20ex;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    width: fit-content;
+    gap: 200px;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+.contactsWords {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    color: #f9faf8;
+}
+
+.button2 {
+    border-color: #f9faf8;
+    display: flex;
+    align-items: center;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 10px;
+}
